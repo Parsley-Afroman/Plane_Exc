@@ -53,3 +53,43 @@ header {
 	align-items: center;
 }
 
+section {
+	width: 90%;
+	height: 200px;
+	margin: 0 auto;
+	
+	position: relative;
+	bottom: 100px;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/*background-color: #800020;*/
+	z-index: 99;
+}
+
+.bx {
+	height: 100%;
+	width: 200px;
+	margin: 0 auto;
+	
+	background-color: #808080;
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;	
+}
+
+h4 {
+	color: #ffffff;
+	font-size: 2rem;
+	
+}
+
+main {
+	height: 1000px;
+	background-color: #00ff12;
+	position: relative;
+	bottom: 200px;
+	padding-top: 200px;
