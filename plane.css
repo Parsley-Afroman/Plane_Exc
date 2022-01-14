@@ -93,3 +93,10 @@ main {
 	position: relative;
 	bottom: 200px;
 	padding-top: 200px;
+	
+}
+
+article {
+	height: 100px;
+	width: 200px;
+}
